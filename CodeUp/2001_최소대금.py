@@ -1,7 +1,8 @@
 #2001 : 최소대금
 
 arr = []
-n=5
+
+n = 5
 
 for i in range(n):
     arr.append(int(input()))

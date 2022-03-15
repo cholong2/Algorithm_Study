@@ -1,8 +1,8 @@
 #3120 : 리모컨
 
 a, b = input().split()
-a = int(a)
-b = int(b)
+a=int(a)
+b=int(b)
 
 cnt = 0
 
