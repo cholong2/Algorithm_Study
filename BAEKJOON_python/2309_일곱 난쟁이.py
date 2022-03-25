@@ -17,9 +17,8 @@ total = sum(arr)
 for i in range(9):
     for j in range(i+1, 9):
         if 100 == total-(arr[i] + arr[j]):
-            num1, num2 = arr[i], arr[j]
-            arr.remove(num1)
-            arr.remove(num2)
+            arr.remove(arr[i])
+            arr.remove(arr[j-1])
             break
 
     if len(arr) < 9:
