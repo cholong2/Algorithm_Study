@@ -10,6 +10,7 @@
 n = int(input())
 t = []
 p = []
+
 result = [0] * (n+1)
 
 
