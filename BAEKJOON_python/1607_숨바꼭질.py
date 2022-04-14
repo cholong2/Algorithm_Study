@@ -11,7 +11,7 @@ from collections import deque
 n, k = map(int, input().split())
 
 
-max = 100000
+max = int(100000)
 result = [0] * (max+1)
 
 q = deque()
