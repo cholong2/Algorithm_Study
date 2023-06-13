@@ -11,7 +11,7 @@ import java.util.*;
 public class BJ_1735 {
     static int[][] arr = new int[2][2];
     static int a, b, r;
-    static int ra, rb;
+
     public static void main (String[] args) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
