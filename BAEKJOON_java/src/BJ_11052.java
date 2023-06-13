@@ -2,7 +2,7 @@
 백준 11052번 : 카드 구매하기
 알고리즘 : DP
 start : 2023-06-13 23:18
-end : 2023-06-14
+end : 2023-06-14 00:18
  */
 import java.io.*;
 import java.util.*;
