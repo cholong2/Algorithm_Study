@@ -26,6 +26,7 @@ public class BJ_1012 {
             k = Integer.parseInt(st.nextToken());
             board = new int[n][m];
             v = new boolean[n][m];
+
             for (int j = 0 ; j <k ; j++){
                st = new StringTokenizer(bf.readLine());
                int tx = Integer.parseInt(st.nextToken());
@@ -44,7 +45,6 @@ public class BJ_1012 {
             }
             System.out.println(result[i]);
         }
-
 
     }
     public static void dfs(int x, int y){
