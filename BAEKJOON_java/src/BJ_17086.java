@@ -69,12 +69,9 @@ public class BJ_17086 {
                         }
                         q.add(new int[]{nx, ny, cnt + 1});
                         visited[nx][ny] = true;
-
-
                     }
                 }
             }
-
         }
     }
 
