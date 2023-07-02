@@ -47,7 +47,6 @@ public class BJ_21921 {
                 } else if (max == temp)
                     cnt++;
             }
-
         }
 
         if (max == 0)
