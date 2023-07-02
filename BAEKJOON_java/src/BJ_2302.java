@@ -30,6 +30,7 @@ public class BJ_2302 {
         for (int i = 0 ; i < m ; i++){
             set.add(Integer.parseInt(bf.readLine()));
         }
+
         dp[0]= 1;
         dp[1] = 1;
 
