@@ -1,7 +1,7 @@
 package Level3;
 /*
 BFS
-한글자만 틀렸을때 방문하면서 타겟 찾기~ 
+한글자만 틀렸을때 방문하면서 타겟 찾기~ 둥
  */
 //String.valueOf(char) char -> string 변환
 import java.util.*;
