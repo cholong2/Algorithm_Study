@@ -23,7 +23,6 @@ public class BJ_1157 {
         arr = new Character[s.length()];
         cnt = new int[s.length()];
 
-
         for (int i = 0 ; i < s.length() ; i++){
             if(Arrays.asList(arr).contains(s.charAt(i)))//포함되어 있ㅇ르떄
                 {
