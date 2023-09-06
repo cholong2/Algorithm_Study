@@ -9,6 +9,7 @@ import java.util.*;
  * 인접리스트 ? :     static ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
  * 어레이리스트를 여러개 선언해서 연결된 거 다 추가
  */
+
 public class BJ_2644 {
     static int n = 0, m = 0;
     static int[] target = new int[2];
