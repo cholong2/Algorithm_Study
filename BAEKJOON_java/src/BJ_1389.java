@@ -5,7 +5,11 @@ import java.util.*;
  * start : 2023-09-07 16:36
  * end : 2023-09-07 17:00
  * 알고리즘 : 플로이드워셜
- * 
+ * 플로이드워셜의 시간 복잡도는 O(n^3)이지만 입력값이 100으로 100만이라서 2초안에 가능
+ * 1초에 1억번 제한
+ * 플로이드워셜? : 모든지점에서 다른 모든 지점까지의 최단경로
+ * 다익스트라? : 한 지점에서 특정 다른 지점까지의 최단 경로
+ * https://velog.io/@kimdukbae/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9B%8C%EC%85%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Floyd-Warshall-Algorithm
  */
 public class BJ_1389 {
     static int n, m;
