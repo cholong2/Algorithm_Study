@@ -7,7 +7,7 @@ package Level3;
  */
 import java.util.*;
 
-class 가장먼노드 {수
+class 가장먼노드 {
     boolean[] v;
     ArrayList<ArrayList<Integer>> arr = new ArrayList<>();
     public int solution(int n, int[][] edge) {
