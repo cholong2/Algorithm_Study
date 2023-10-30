@@ -1,14 +1,14 @@
 /**
  * 백준 줄세우기
  * start : 2023-10-29 23:59
- * end : 2023-10-29
+ * end : 2023-10-30 1:00
  * 알고리즘 : 무슨무슨 정렬 인데 위상정렬이다!
  */
 
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class BJ_2252 {
     static int n, m;
 
     static int degreeCnt[];
